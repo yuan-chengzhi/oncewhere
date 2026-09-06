@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+._*
+
+# Local work and private source material
+private/
+work/
+*.local
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Generated output and future dependencies
+node_modules/
+dist/
+coverage/
+__pycache__/
+.venv/
+*.log
