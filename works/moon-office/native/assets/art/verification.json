@@ -1,0 +1,219 @@
+{
+  "method": "Pillow pixel inspection only; images were not edited",
+  "alpha_visible_threshold": 16,
+  "characters": {
+    "fox": {
+      "file": "fox-puppet-atlas.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "sha256": "33a58ead4f93782d56474ed0ac19c5ac9e50944a5785f5bec9c084af71578b0d",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "fully_transparent_pixels": 1066812,
+      "low_alpha_1_to_16": 31336,
+      "visible_pixels": 474716,
+      "parts": {
+        "head": {
+          "rect": [
+            102,
+            8,
+            427,
+            508
+          ],
+          "visible_bbox_in_rect": [
+            8,
+            10,
+            421,
+            499
+          ]
+        },
+        "torso": {
+          "rect": [
+            582,
+            36,
+            434,
+            481
+          ],
+          "visible_bbox_in_rect": [
+            9,
+            6,
+            427,
+            473
+          ]
+        },
+        "upper_left": {
+          "rect": [
+            1170,
+            65,
+            227,
+            434
+          ],
+          "visible_bbox_in_rect": [
+            6,
+            7,
+            221,
+            426
+          ]
+        },
+        "upper_right": {
+          "rect": [
+            177,
+            535,
+            244,
+            426
+          ],
+          "visible_bbox_in_rect": [
+            8,
+            6,
+            237,
+            419
+          ]
+        },
+        "forearm_left": {
+          "rect": [
+            671,
+            532,
+            301,
+            443
+          ],
+          "visible_bbox_in_rect": [
+            6,
+            8,
+            295,
+            435
+          ]
+        },
+        "forearm_right": {
+          "rect": [
+            1077,
+            534,
+            293,
+            454
+          ],
+          "visible_bbox_in_rect": [
+            9,
+            7,
+            287,
+            446
+          ]
+        }
+      },
+      "visible_pixels_outside_regions": 0
+    },
+    "dog": {
+      "file": "dog-puppet-atlas.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "sha256": "01294a8b35c76221a2236215d1950186eb15738a58b3878ebf2a5f1a9c7040cb",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "fully_transparent_pixels": 1006325,
+      "low_alpha_1_to_16": 27233,
+      "visible_pixels": 539306,
+      "parts": {
+        "head": {
+          "rect": [
+            78,
+            39,
+            465,
+            451
+          ],
+          "visible_bbox_in_rect": [
+            9,
+            8,
+            457,
+            444
+          ]
+        },
+        "torso": {
+          "rect": [
+            618,
+            14,
+            420,
+            505
+          ],
+          "visible_bbox_in_rect": [
+            7,
+            8,
+            416,
+            499
+          ]
+        },
+        "upper_left": {
+          "rect": [
+            1187,
+            63,
+            246,
+            421
+          ],
+          "visible_bbox_in_rect": [
+            8,
+            7,
+            239,
+            415
+          ]
+        },
+        "upper_right": {
+          "rect": [
+            148,
+            537,
+            243,
+            440
+          ],
+          "visible_bbox_in_rect": [
+            8,
+            9,
+            235,
+            434
+          ]
+        },
+        "forearm_left": {
+          "rect": [
+            660,
+            524,
+            337,
+            464
+          ],
+          "visible_bbox_in_rect": [
+            9,
+            8,
+            330,
+            456
+          ]
+        },
+        "forearm_right": {
+          "rect": [
+            1093,
+            524,
+            296,
+            471
+          ],
+          "visible_bbox_in_rect": [
+            8,
+            10,
+            289,
+            464
+          ]
+        }
+      },
+      "visible_pixels_outside_regions": 0
+    }
+  },
+  "background": {
+    "size": [
+      1586,
+      992
+    ],
+    "mode": "RGB"
+  }
+}

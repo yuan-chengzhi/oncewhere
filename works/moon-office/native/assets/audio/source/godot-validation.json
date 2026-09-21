@@ -1,0 +1,50 @@
+{
+  "audio_driver": "Dummy",
+  "checks": [
+    "disabled before ready does not start playback",
+    "state before ready is retained",
+    "enabling starts synchronized stream",
+    "three synchronized music states",
+    "state 0 is a 46-second loop",
+    "state 1 is a 46-second loop",
+    "state 2 is a 46-second loop",
+    "repeated pickup is throttled",
+    "throttled pickup does not add an overlapping voice",
+    "one immediate clasp request produces one latch cue",
+    "interrupting a crossfade does not jump current gains",
+    "rapid state changes settle on the last requested state",
+    "mute ramp reaches zero",
+    "muted action does not play a cue",
+    "mute preserves the shared musical timeline",
+    "muted material voice is stopped",
+    "muted material voice is stopped",
+    "muted material voice is stopped",
+    "muted material voice is stopped",
+    "unmute preserves and reaches the requested state",
+    "material cue loads and plays: blocked",
+    "material cue loads and plays: cloth",
+    "material cue loads and plays: drawer_open",
+    "material cue loads and plays: drawer_close",
+    "material cue loads and plays: lamp",
+    "music continues after the first 46-second cycle",
+    "Godot master-bus capture spans a complete loop"
+  ],
+  "engine": "4.7.2-stable (official)",
+  "human_listening_performed": false,
+  "passed": true,
+  "runtime_recording_seconds": 46.9971882086168,
+  "runtime_mix_signal": {
+    "seconds": 46.99718820861678,
+    "sample_rate": 44100,
+    "peak_dbfs": -10.449,
+    "rms_dbfs": -28.319,
+    "clipped_samples": 0,
+    "nonzero_samples": 4125097
+  },
+  "scene_cleanup": {
+    "exit_tree_release_verified": true,
+    "separate_smoke_test_seconds": 0.7,
+    "exit_code": 0,
+    "warnings_or_errors": false
+  }
+}

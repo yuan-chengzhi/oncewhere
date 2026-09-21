@@ -1,0 +1,1442 @@
+{
+  "source": "../../../../assets/audio-source/score.json",
+  "loop_seconds": 46,
+  "sample_rate": 44100,
+  "source_bars": [
+    [
+      1,
+      8
+    ],
+    [
+      25,
+      32
+    ]
+  ],
+  "events": [
+    {
+      "time": 0.035,
+      "note": 38,
+      "duration": 2.767871,
+      "role": "bass",
+      "velocity": 37,
+      "bar": 1,
+      "beat": 0.04,
+      "source_bar": 1,
+      "state_gain": {
+        "observe": 0.67,
+        "hold": 0.28,
+        "resolve": 0.7
+      }
+    },
+    {
+      "time": 0.260287,
+      "note": 78,
+      "duration": 2.542584,
+      "role": "melody",
+      "velocity": 53,
+      "bar": 1,
+      "beat": 0.25,
+      "source_bar": 1,
+      "state_gain": {
+        "observe": 0.55,
+        "hold": 0,
+        "resolve": 0.8
+      }
+    },
+    {
+      "time": 0.795066,
+      "note": 57,
+      "duration": 2.007805,
+      "role": "inner",
+      "velocity": 35,
+      "bar": 1,
+      "beat": 0.83,
+      "source_bar": 1,
+      "state_gain": {
+        "observe": 0.5,
+        "hold": 0.16,
+        "resolve": 0.58
+      }
+    },
+    {
+      "time": 1.388688,
+      "note": 62,
+      "duration": 1.414183,
+      "role": "inner",
+      "velocity": 38,
+      "bar": 1,
+      "beat": 1.46,
+      "source_bar": 1,
+      "state_gain": {
+        "observe": 0.5,
+        "hold": 0.16,
+        "resolve": 0.58
+      }
+    },
+    {
+      "time": 1.589098,
+      "note": 76,
+      "duration": 1.213772,
+      "role": "melody",
+      "velocity": 49,
+      "bar": 1,
+      "beat": 1.65,
+      "source_bar": 1,
+      "state_gain": {
+        "observe": 0.55,
+        "hold": 0,
+        "resolve": 0.8
+      }
+    },
+    {
+      "time": 2.028923,
+      "note": 66,
+      "duration": 0.773948,
+      "role": "inner",
+      "velocity": 38,
+      "bar": 1,
+      "beat": 2.12,
+      "source_bar": 1,
+      "state_gain": {
+        "observe": 0,
+        "hold": 0,
+        "resolve": 0.34
+      }
+    },
+    {
+      "time": 2.298799,
+      "note": 74,
+      "duration": 0.504072,
+      "role": "melody",
+      "velocity": 51,
+      "bar": 1,
+      "beat": 2.4,
+      "source_bar": 1,
+      "state_gain": {
+        "observe": 0.55,
+        "hold": 0,
+        "resolve": 0.8
+      }
+    },
+    {
+      "time": 2.909726,
+      "note": 49,
+      "duration": 2.697885,
+      "role": "bass",
+      "velocity": 37,
+      "bar": 2,
+      "beat": 0.04,
+      "source_bar": 2,
+      "state_gain": {
+        "observe": 0.67,
+        "hold": 0,
+        "resolve": 0.7
+      }
+    },
+    {
+      "time": 3.068236,
+      "note": 73,
+      "duration": 2.539375,
+      "role": "melody",
+      "velocity": 56,
+      "bar": 2,
+      "beat": 0.2,
+      "source_bar": 2,
+      "state_gain": {
+        "observe": 0.55,
+        "hold": 0,
+        "resolve": 0.8
+      }
+    },
+    {
+      "time": 3.605401,
+      "note": 57,
+      "duration": 2.002209,
+      "role": "inner",
+      "velocity": 38,
+      "bar": 2,
+      "beat": 0.78,
+      "source_bar": 2,
+      "state_gain": {
+        "observe": 0.5,
+        "hold": 0,
+        "resolve": 0.58
+      }
+    },
+    {
+      "time": 4.187103,
+      "note": 64,
+      "duration": 1.420508,
+      "role": "inner",
+      "velocity": 41,
+      "bar": 2,
+      "beat": 1.4,
+      "source_bar": 2,
+      "state_gain": {
+        "observe": 0.5,
+        "hold": 0,
+        "resolve": 0.58
+      }
+    },
+    {
+      "time": 4.660882,
+      "note": 69,
+      "duration": 0.946729,
+      "role": "melody",
+      "velocity": 54,
+      "bar": 2,
+      "beat": 1.9,
+      "source_bar": 2,
+      "state_gain": {
+        "observe": 0.55,
+        "hold": 0,
+        "resolve": 0.8
+      }
+    },
+    {
+      "time": 4.936861,
+      "note": 66,
+      "duration": 0.670749,
+      "role": "inner",
+      "velocity": 39,
+      "bar": 2,
+      "beat": 2.2,
+      "source_bar": 2,
+      "state_gain": {
+        "observe": 0,
+        "hold": 0,
+        "resolve": 0.34
+      }
+    },
+    {
+      "time": 5.71261,
+      "note": 47,
+      "duration": 2.682707,
+      "role": "bass",
+      "velocity": 39,
+      "bar": 3,
+      "beat": 0.04,
+      "source_bar": 3,
+      "state_gain": {
+        "observe": 0.67,
+        "hold": 0.28,
+        "resolve": 0.7
+      }
+    },
+    {
+      "time": 5.772958,
+      "note": 74,
+      "duration": 2.622359,
+      "role": "melody",
+      "velocity": 60,
+      "bar": 3,
+      "beat": 0.1,
+      "source_bar": 3,
+      "state_gain": {
+        "observe": 0,
+        "hold": 0,
+        "resolve": 0.8
+      }
+    },
+    {
+      "time": 6.461214,
+      "note": 57,
+      "duration": 1.934103,
+      "role": "inner",
+      "velocity": 38,
+      "bar": 3,
+      "beat": 0.83,
+      "source_bar": 3,
+      "state_gain": {
+        "observe": 0.5,
+        "hold": 0,
+        "resolve": 0.58
+      }
+    },
+    {
+      "time": 6.609049,
+      "note": 78,
+      "duration": 1.786269,
+      "role": "melody",
+      "velocity": 53,
+      "bar": 3,
+      "beat": 1.0,
+      "source_bar": 3,
+      "state_gain": {
+        "observe": 0,
+        "hold": 0,
+        "resolve": 0.8
+      }
+    },
+    {
+      "time": 7.039658,
+      "note": 62,
+      "duration": 1.355659,
+      "role": "inner",
+      "velocity": 41,
+      "bar": 3,
+      "beat": 1.46,
+      "source_bar": 3,
+      "state_gain": {
+        "observe": 0.5,
+        "hold": 0,
+        "resolve": 0.58
+      }
+    },
+    {
+      "time": 7.543045,
+      "note": 76,
+      "duration": 0.852273,
+      "role": "melody",
+      "velocity": 52,
+      "bar": 3,
+      "beat": 2.0,
+      "source_bar": 3,
+      "state_gain": {
+        "observe": 0,
+        "hold": 0,
+        "resolve": 0.8
+      }
+    },
+    {
+      "time": 7.658168,
+      "note": 66,
+      "duration": 0.737149,
+      "role": "inner",
+      "velocity": 41,
+      "bar": 3,
+      "beat": 2.12,
+      "source_bar": 3,
+      "state_gain": {
+        "observe": 0,
+        "hold": 0,
+        "resolve": 0.34
+      }
+    },
+    {
+      "time": 8.513109,
+      "note": 43,
+      "duration": 2.820372,
+      "role": "bass",
+      "velocity": 40,
+      "bar": 4,
+      "beat": 0.04,
+      "source_bar": 4,
+      "state_gain": {
+        "observe": 0.67,
+        "hold": 0,
+        "resolve": 0.7
+      }
+    },
+    {
+      "time": 8.56383,
+      "note": 74,
+      "duration": 2.769651,
+      "role": "melody",
+      "velocity": 61,
+      "bar": 4,
+      "beat": 0.1,
+      "source_bar": 4,
+      "state_gain": {
+        "observe": 0,
+        "hold": 0,
+        "resolve": 0.8
+      }
+    },
+    {
+      "time": 9.394119,
+      "note": 62,
+      "duration": 1.939361,
+      "role": "inner",
+      "velocity": 42,
+      "bar": 4,
+      "beat": 0.95,
+      "source_bar": 4,
+      "state_gain": {
+        "observe": 0.5,
+        "hold": 0.16,
+        "resolve": 0.58
+      }
+    },
+    {
+      "time": 9.455564,
+      "note": 66,
+      "duration": 1.877916,
+      "role": "inner",
+      "velocity": 40,
+      "bar": 4,
+      "beat": 1.02,
+      "source_bar": 4,
+      "state_gain": {
+        "observe": 0.5,
+        "hold": 0.16,
+        "resolve": 0.58
+      }
+    },
+    {
+      "time": 10.579733,
+      "note": 71,
+      "duration": 0.753747,
+      "role": "melody",
+      "velocity": 54,
+      "bar": 4,
+      "beat": 2.15,
+      "source_bar": 4,
+      "state_gain": {
+        "observe": 0,
+        "hold": 0,
+        "resolve": 0.8
+      }
+    },
+    {
+      "time": 11.447182,
+      "note": 52,
+      "duration": 2.696716,
+      "role": "bass",
+      "velocity": 39,
+      "bar": 5,
+      "beat": 0.04,
+      "source_bar": 5,
+      "state_gain": {
+        "observe": 0.67,
+        "hold": 0.28,
+        "resolve": 0.7
+      }
+    },
+    {
+      "time": 11.609489,
+      "note": 71,
+      "duration": 2.534409,
+      "role": "melody",
+      "velocity": 60,
+      "bar": 5,
+      "beat": 0.2,
+      "source_bar": 5,
+      "state_gain": {
+        "observe": 0,
+        "hold": 0,
+        "resolve": 0.8
+      }
+    },
+    {
+      "time": 12.19496,
+      "note": 55,
+      "duration": 1.948938,
+      "role": "inner",
+      "velocity": 39,
+      "bar": 5,
+      "beat": 0.83,
+      "source_bar": 5,
+      "state_gain": {
+        "observe": 0.5,
+        "hold": 0,
+        "resolve": 0.58
+      }
+    },
+    {
+      "time": 12.597631,
+      "note": 74,
+      "duration": 1.546267,
+      "role": "melody",
+      "velocity": 55,
+      "bar": 5,
+      "beat": 1.25,
+      "source_bar": 5,
+      "state_gain": {
+        "observe": 0,
+        "hold": 0,
+        "resolve": 0.8
+      }
+    },
+    {
+      "time": 12.772936,
+      "note": 59,
+      "duration": 1.370962,
+      "role": "inner",
+      "velocity": 42,
+      "bar": 5,
+      "beat": 1.46,
+      "source_bar": 5,
+      "state_gain": {
+        "observe": 0.5,
+        "hold": 0,
+        "resolve": 0.58
+      }
+    },
+    {
+      "time": 13.380087,
+      "note": 66,
+      "duration": 0.763811,
+      "role": "inner",
+      "velocity": 42,
+      "bar": 5,
+      "beat": 2.12,
+      "source_bar": 5,
+      "state_gain": {
+        "observe": 0,
+        "hold": 0,
+        "resolve": 0.34
+      }
+    },
+    {
+      "time": 13.42917,
+      "note": 78,
+      "duration": 0.714728,
+      "role": "melody",
+      "velocity": 55,
+      "bar": 5,
+      "beat": 2.15,
+      "source_bar": 5,
+      "state_gain": {
+        "observe": 0,
+        "hold": 0,
+        "resolve": 0.8
+      }
+    },
+    {
+      "time": 14.248898,
+      "note": 45,
+      "duration": 2.762193,
+      "role": "bass",
+      "velocity": 39,
+      "bar": 6,
+      "beat": 0.04,
+      "source_bar": 6,
+      "state_gain": {
+        "observe": 0.67,
+        "hold": 0,
+        "resolve": 0.7
+      }
+    },
+    {
+      "time": 14.365453,
+      "note": 76,
+      "duration": 2.645638,
+      "role": "melody",
+      "velocity": 58,
+      "bar": 6,
+      "beat": 0.15,
+      "source_bar": 6,
+      "state_gain": {
+        "observe": 0,
+        "hold": 0,
+        "resolve": 0.8
+      }
+    },
+    {
+      "time": 14.971187,
+      "note": 55,
+      "duration": 2.039905,
+      "role": "inner",
+      "velocity": 40,
+      "bar": 6,
+      "beat": 0.78,
+      "source_bar": 6,
+      "state_gain": {
+        "observe": 0.5,
+        "hold": 0,
+        "resolve": 0.58
+      }
+    },
+    {
+      "time": 15.555509,
+      "note": 62,
+      "duration": 1.455582,
+      "role": "inner",
+      "velocity": 43,
+      "bar": 6,
+      "beat": 1.4,
+      "source_bar": 6,
+      "state_gain": {
+        "observe": 0.5,
+        "hold": 0,
+        "resolve": 0.58
+      }
+    },
+    {
+      "time": 16.225746,
+      "note": 73,
+      "duration": 0.785346,
+      "role": "melody",
+      "velocity": 54,
+      "bar": 6,
+      "beat": 2.1,
+      "source_bar": 6,
+      "state_gain": {
+        "observe": 0,
+        "hold": 0,
+        "resolve": 0.8
+      }
+    },
+    {
+      "time": 16.321117,
+      "note": 64,
+      "duration": 0.689974,
+      "role": "inner",
+      "velocity": 41,
+      "bar": 6,
+      "beat": 2.2,
+      "source_bar": 6,
+      "state_gain": {
+        "observe": 0,
+        "hold": 0,
+        "resolve": 0.34
+      }
+    },
+    {
+      "time": 17.116091,
+      "note": 50,
+      "duration": 2.804775,
+      "role": "bass",
+      "velocity": 42,
+      "bar": 7,
+      "beat": 0.04,
+      "source_bar": 7,
+      "state_gain": {
+        "observe": 0.67,
+        "hold": 0.28,
+        "resolve": 0.7
+      }
+    },
+    {
+      "time": 17.239072,
+      "note": 74,
+      "duration": 2.681795,
+      "role": "melody",
+      "velocity": 56,
+      "bar": 7,
+      "beat": 0.15,
+      "source_bar": 7,
+      "state_gain": {
+        "observe": 0.55,
+        "hold": 0.16,
+        "resolve": 0.8
+      }
+    },
+    {
+      "time": 17.89281,
+      "note": 57,
+      "duration": 2.028057,
+      "role": "inner",
+      "velocity": 38,
+      "bar": 7,
+      "beat": 0.83,
+      "source_bar": 7,
+      "state_gain": {
+        "observe": 0.5,
+        "hold": 0.16,
+        "resolve": 0.58
+      }
+    },
+    {
+      "time": 18.489335,
+      "note": 61,
+      "duration": 1.431531,
+      "role": "inner",
+      "velocity": 41,
+      "bar": 7,
+      "beat": 1.46,
+      "source_bar": 7,
+      "state_gain": {
+        "observe": 0.5,
+        "hold": 0.16,
+        "resolve": 0.58
+      }
+    },
+    {
+      "time": 19.134578,
+      "note": 66,
+      "duration": 0.786289,
+      "role": "inner",
+      "velocity": 41,
+      "bar": 7,
+      "beat": 2.12,
+      "source_bar": 7,
+      "state_gain": {
+        "observe": 0,
+        "hold": 0,
+        "resolve": 0.34
+      }
+    },
+    {
+      "time": 20.026413,
+      "note": 45,
+      "duration": 2.903587,
+      "role": "bass",
+      "velocity": 38,
+      "bar": 8,
+      "beat": 0.04,
+      "source_bar": 8,
+      "state_gain": {
+        "observe": 0.67,
+        "hold": 0,
+        "resolve": 0.7
+      }
+    },
+    {
+      "time": 20.957553,
+      "note": 59,
+      "duration": 1.972447,
+      "role": "inner",
+      "velocity": 40,
+      "bar": 8,
+      "beat": 0.95,
+      "source_bar": 8,
+      "state_gain": {
+        "observe": 0.5,
+        "hold": 0,
+        "resolve": 0.58
+      }
+    },
+    {
+      "time": 21.004471,
+      "note": 64,
+      "duration": 1.925529,
+      "role": "inner",
+      "velocity": 38,
+      "bar": 8,
+      "beat": 1.02,
+      "source_bar": 8,
+      "state_gain": {
+        "observe": 0.5,
+        "hold": 0,
+        "resolve": 0.58
+      }
+    },
+    {
+      "time": 21.095398,
+      "note": 69,
+      "duration": 1.834602,
+      "role": "melody",
+      "velocity": 58,
+      "bar": 8,
+      "beat": 1.1,
+      "source_bar": 8,
+      "state_gain": {
+        "observe": 0.55,
+        "hold": 0,
+        "resolve": 0.8
+      }
+    },
+    {
+      "time": 22.116038,
+      "note": 71,
+      "duration": 0.813962,
+      "role": "melody",
+      "velocity": 50,
+      "bar": 8,
+      "beat": 2.1,
+      "source_bar": 8,
+      "state_gain": {
+        "observe": 0.55,
+        "hold": 0,
+        "resolve": 0.8
+      }
+    },
+    {
+      "time": 23.048533,
+      "note": 38,
+      "duration": 2.754338,
+      "role": "bass",
+      "velocity": 34,
+      "bar": 9,
+      "beat": 0.04,
+      "source_bar": 25,
+      "state_gain": {
+        "observe": 0.67,
+        "hold": 0.28,
+        "resolve": 0.7
+      }
+    },
+    {
+      "time": 23.209149,
+      "note": 78,
+      "duration": 2.593722,
+      "role": "melody",
+      "velocity": 51,
+      "bar": 9,
+      "beat": 0.2,
+      "source_bar": 25,
+      "state_gain": {
+        "observe": 0.55,
+        "hold": 0,
+        "resolve": 0.7
+      }
+    },
+    {
+      "time": 23.798202,
+      "note": 57,
+      "duration": 2.004669,
+      "role": "inner",
+      "velocity": 33,
+      "bar": 9,
+      "beat": 0.83,
+      "source_bar": 25,
+      "state_gain": {
+        "observe": 0.5,
+        "hold": 0.16,
+        "resolve": 0.58
+      }
+    },
+    {
+      "time": 24.39013,
+      "note": 62,
+      "duration": 1.412741,
+      "role": "inner",
+      "velocity": 35,
+      "bar": 9,
+      "beat": 1.46,
+      "source_bar": 25,
+      "state_gain": {
+        "observe": 0.5,
+        "hold": 0.16,
+        "resolve": 0.58
+      }
+    },
+    {
+      "time": 24.580835,
+      "note": 76,
+      "duration": 1.222036,
+      "role": "melody",
+      "velocity": 46,
+      "bar": 9,
+      "beat": 1.65,
+      "source_bar": 25,
+      "state_gain": {
+        "observe": 0.55,
+        "hold": 0,
+        "resolve": 0.7
+      }
+    },
+    {
+      "time": 25.024436,
+      "note": 66,
+      "duration": 0.778435,
+      "role": "inner",
+      "velocity": 35,
+      "bar": 9,
+      "beat": 2.12,
+      "source_bar": 25,
+      "state_gain": {
+        "observe": 0,
+        "hold": 0,
+        "resolve": 0.34
+      }
+    },
+    {
+      "time": 25.207469,
+      "note": 74,
+      "duration": 0.595402,
+      "role": "melody",
+      "velocity": 46,
+      "bar": 9,
+      "beat": 2.3,
+      "source_bar": 25,
+      "state_gain": {
+        "observe": 0.55,
+        "hold": 0,
+        "resolve": 0.7
+      }
+    },
+    {
+      "time": 25.907871,
+      "note": 49,
+      "duration": 2.69974,
+      "role": "bass",
+      "velocity": 35,
+      "bar": 10,
+      "beat": 0.04,
+      "source_bar": 26,
+      "state_gain": {
+        "observe": 0.67,
+        "hold": 0,
+        "resolve": 0.7
+      }
+    },
+    {
+      "time": 26.070002,
+      "note": 73,
+      "duration": 2.537608,
+      "role": "melody",
+      "velocity": 52,
+      "bar": 10,
+      "beat": 0.2,
+      "source_bar": 26,
+      "state_gain": {
+        "observe": 0.55,
+        "hold": 0,
+        "resolve": 0.7
+      }
+    },
+    {
+      "time": 26.591717,
+      "note": 57,
+      "duration": 2.015893,
+      "role": "inner",
+      "velocity": 35,
+      "bar": 10,
+      "beat": 0.78,
+      "source_bar": 26,
+      "state_gain": {
+        "observe": 0.5,
+        "hold": 0,
+        "resolve": 0.58
+      }
+    },
+    {
+      "time": 27.173795,
+      "note": 64,
+      "duration": 1.433816,
+      "role": "inner",
+      "velocity": 38,
+      "bar": 10,
+      "beat": 1.4,
+      "source_bar": 26,
+      "state_gain": {
+        "observe": 0.5,
+        "hold": 0,
+        "resolve": 0.58
+      }
+    },
+    {
+      "time": 27.611347,
+      "note": 69,
+      "duration": 0.996264,
+      "role": "melody",
+      "velocity": 51,
+      "bar": 10,
+      "beat": 1.85,
+      "source_bar": 26,
+      "state_gain": {
+        "observe": 0.55,
+        "hold": 0,
+        "resolve": 0.7
+      }
+    },
+    {
+      "time": 27.930721,
+      "note": 66,
+      "duration": 0.676889,
+      "role": "inner",
+      "velocity": 36,
+      "bar": 10,
+      "beat": 2.2,
+      "source_bar": 26,
+      "state_gain": {
+        "observe": 0,
+        "hold": 0,
+        "resolve": 0.34
+      }
+    },
+    {
+      "time": 28.71261,
+      "note": 47,
+      "duration": 2.682707,
+      "role": "bass",
+      "velocity": 37,
+      "bar": 11,
+      "beat": 0.04,
+      "source_bar": 27,
+      "state_gain": {
+        "observe": 0.67,
+        "hold": 0.28,
+        "resolve": 0.7
+      }
+    },
+    {
+      "time": 28.871532,
+      "note": 74,
+      "duration": 2.523785,
+      "role": "melody",
+      "velocity": 52,
+      "bar": 11,
+      "beat": 0.2,
+      "source_bar": 27,
+      "state_gain": {
+        "observe": 0,
+        "hold": 0,
+        "resolve": 0.7
+      }
+    },
+    {
+      "time": 29.449185,
+      "note": 57,
+      "duration": 1.946133,
+      "role": "inner",
+      "velocity": 35,
+      "bar": 11,
+      "beat": 0.83,
+      "source_bar": 27,
+      "state_gain": {
+        "observe": 0.5,
+        "hold": 0,
+        "resolve": 0.58
+      }
+    },
+    {
+      "time": 29.71379,
+      "note": 78,
+      "duration": 1.681527,
+      "role": "melody",
+      "velocity": 48,
+      "bar": 11,
+      "beat": 1.1,
+      "source_bar": 27,
+      "state_gain": {
+        "observe": 0,
+        "hold": 0,
+        "resolve": 0.7
+      }
+    },
+    {
+      "time": 30.039053,
+      "note": 62,
+      "duration": 1.356264,
+      "role": "inner",
+      "velocity": 38,
+      "bar": 11,
+      "beat": 1.46,
+      "source_bar": 27,
+      "state_gain": {
+        "observe": 0.5,
+        "hold": 0,
+        "resolve": 0.58
+      }
+    },
+    {
+      "time": 30.580754,
+      "note": 76,
+      "duration": 0.814563,
+      "role": "melody",
+      "velocity": 51,
+      "bar": 11,
+      "beat": 2.05,
+      "source_bar": 27,
+      "state_gain": {
+        "observe": 0,
+        "hold": 0,
+        "resolve": 0.7
+      }
+    },
+    {
+      "time": 30.647815,
+      "note": 66,
+      "duration": 0.747503,
+      "role": "inner",
+      "velocity": 38,
+      "bar": 11,
+      "beat": 2.12,
+      "source_bar": 27,
+      "state_gain": {
+        "observe": 0,
+        "hold": 0,
+        "resolve": 0.34
+      }
+    },
+    {
+      "time": 31.505019,
+      "note": 43,
+      "duration": 2.828461,
+      "role": "bass",
+      "velocity": 38,
+      "bar": 12,
+      "beat": 0.04,
+      "source_bar": 28,
+      "state_gain": {
+        "observe": 0.67,
+        "hold": 0,
+        "resolve": 0.7
+      }
+    },
+    {
+      "time": 31.619169,
+      "note": 74,
+      "duration": 2.714312,
+      "role": "melody",
+      "velocity": 57,
+      "bar": 12,
+      "beat": 0.15,
+      "source_bar": 28,
+      "state_gain": {
+        "observe": 0,
+        "hold": 0,
+        "resolve": 0.7
+      }
+    },
+    {
+      "time": 32.402696,
+      "note": 62,
+      "duration": 1.930784,
+      "role": "inner",
+      "velocity": 39,
+      "bar": 12,
+      "beat": 0.95,
+      "source_bar": 28,
+      "state_gain": {
+        "observe": 0.5,
+        "hold": 0.16,
+        "resolve": 0.58
+      }
+    },
+    {
+      "time": 32.467682,
+      "note": 66,
+      "duration": 1.865799,
+      "role": "inner",
+      "velocity": 37,
+      "bar": 12,
+      "beat": 1.02,
+      "source_bar": 28,
+      "state_gain": {
+        "observe": 0.5,
+        "hold": 0.16,
+        "resolve": 0.58
+      }
+    },
+    {
+      "time": 33.592157,
+      "note": 71,
+      "duration": 0.741323,
+      "role": "melody",
+      "velocity": 49,
+      "bar": 12,
+      "beat": 2.15,
+      "source_bar": 28,
+      "state_gain": {
+        "observe": 0,
+        "hold": 0,
+        "resolve": 0.7
+      }
+    },
+    {
+      "time": 34.446508,
+      "note": 52,
+      "duration": 2.69739,
+      "role": "bass",
+      "velocity": 39,
+      "bar": 13,
+      "beat": 0.04,
+      "source_bar": 29,
+      "state_gain": {
+        "observe": 0.67,
+        "hold": 0.28,
+        "resolve": 0.7
+      }
+    },
+    {
+      "time": 34.601469,
+      "note": 71,
+      "duration": 2.542429,
+      "role": "melody",
+      "velocity": 57,
+      "bar": 13,
+      "beat": 0.2,
+      "source_bar": 29,
+      "state_gain": {
+        "observe": 0,
+        "hold": 0,
+        "resolve": 0.7
+      }
+    },
+    {
+      "time": 35.194359,
+      "note": 55,
+      "duration": 1.949539,
+      "role": "inner",
+      "velocity": 36,
+      "bar": 13,
+      "beat": 0.83,
+      "source_bar": 29,
+      "state_gain": {
+        "observe": 0.5,
+        "hold": 0,
+        "resolve": 0.58
+      }
+    },
+    {
+      "time": 35.528963,
+      "note": 74,
+      "duration": 1.614934,
+      "role": "melody",
+      "velocity": 54,
+      "bar": 13,
+      "beat": 1.2,
+      "source_bar": 29,
+      "state_gain": {
+        "observe": 0,
+        "hold": 0,
+        "resolve": 0.7
+      }
+    },
+    {
+      "time": 35.768943,
+      "note": 59,
+      "duration": 1.374955,
+      "role": "inner",
+      "velocity": 39,
+      "bar": 13,
+      "beat": 1.46,
+      "source_bar": 29,
+      "state_gain": {
+        "observe": 0.5,
+        "hold": 0,
+        "resolve": 0.58
+      }
+    },
+    {
+      "time": 36.389483,
+      "note": 66,
+      "duration": 0.754414,
+      "role": "inner",
+      "velocity": 39,
+      "bar": 13,
+      "beat": 2.12,
+      "source_bar": 29,
+      "state_gain": {
+        "observe": 0,
+        "hold": 0,
+        "resolve": 0.34
+      }
+    },
+    {
+      "time": 36.415792,
+      "note": 78,
+      "duration": 0.728106,
+      "role": "melody",
+      "velocity": 54,
+      "bar": 13,
+      "beat": 2.15,
+      "source_bar": 29,
+      "state_gain": {
+        "observe": 0,
+        "hold": 0,
+        "resolve": 0.7
+      }
+    },
+    {
+      "time": 37.257368,
+      "note": 45,
+      "duration": 2.753723,
+      "role": "bass",
+      "velocity": 37,
+      "bar": 14,
+      "beat": 0.04,
+      "source_bar": 30,
+      "state_gain": {
+        "observe": 0.67,
+        "hold": 0,
+        "resolve": 0.7
+      }
+    },
+    {
+      "time": 37.42254,
+      "note": 76,
+      "duration": 2.588551,
+      "role": "melody",
+      "velocity": 55,
+      "bar": 14,
+      "beat": 0.2,
+      "source_bar": 30,
+      "state_gain": {
+        "observe": 0,
+        "hold": 0,
+        "resolve": 0.7
+      }
+    },
+    {
+      "time": 37.955405,
+      "note": 55,
+      "duration": 2.055686,
+      "role": "inner",
+      "velocity": 37,
+      "bar": 14,
+      "beat": 0.78,
+      "source_bar": 30,
+      "state_gain": {
+        "observe": 0.5,
+        "hold": 0,
+        "resolve": 0.58
+      }
+    },
+    {
+      "time": 38.550087,
+      "note": 61,
+      "duration": 1.461004,
+      "role": "inner",
+      "velocity": 40,
+      "bar": 14,
+      "beat": 1.4,
+      "source_bar": 30,
+      "state_gain": {
+        "observe": 0.5,
+        "hold": 0,
+        "resolve": 0.58
+      }
+    },
+    {
+      "time": 38.981914,
+      "note": 73,
+      "duration": 1.029177,
+      "role": "melody",
+      "velocity": 50,
+      "bar": 14,
+      "beat": 1.85,
+      "source_bar": 30,
+      "state_gain": {
+        "observe": 0,
+        "hold": 0,
+        "resolve": 0.7
+      }
+    },
+    {
+      "time": 39.327132,
+      "note": 64,
+      "duration": 0.683959,
+      "role": "inner",
+      "velocity": 38,
+      "bar": 14,
+      "beat": 2.2,
+      "source_bar": 30,
+      "state_gain": {
+        "observe": 0,
+        "hold": 0,
+        "resolve": 0.34
+      }
+    },
+    {
+      "time": 40.127808,
+      "note": 50,
+      "duration": 2.793059,
+      "role": "bass",
+      "velocity": 35,
+      "bar": 15,
+      "beat": 0.04,
+      "source_bar": 31,
+      "state_gain": {
+        "observe": 0.67,
+        "hold": 0.28,
+        "resolve": 0.7
+      }
+    },
+    {
+      "time": 40.277699,
+      "note": 74,
+      "duration": 2.643168,
+      "role": "melody",
+      "velocity": 53,
+      "bar": 15,
+      "beat": 0.2,
+      "source_bar": 31,
+      "state_gain": {
+        "observe": 0.55,
+        "hold": 0.16,
+        "resolve": 0.7
+      }
+    },
+    {
+      "time": 40.898677,
+      "note": 57,
+      "duration": 2.02219,
+      "role": "inner",
+      "velocity": 35,
+      "bar": 15,
+      "beat": 0.83,
+      "source_bar": 31,
+      "state_gain": {
+        "observe": 0.5,
+        "hold": 0.16,
+        "resolve": 0.58
+      }
+    },
+    {
+      "time": 41.499928,
+      "note": 62,
+      "duration": 1.420939,
+      "role": "inner",
+      "velocity": 38,
+      "bar": 15,
+      "beat": 1.46,
+      "source_bar": 31,
+      "state_gain": {
+        "observe": 0.5,
+        "hold": 0.16,
+        "resolve": 0.58
+      }
+    },
+    {
+      "time": 42.14565,
+      "note": 66,
+      "duration": 0.775217,
+      "role": "inner",
+      "velocity": 38,
+      "bar": 15,
+      "beat": 2.12,
+      "source_bar": 31,
+      "state_gain": {
+        "observe": 0,
+        "hold": 0,
+        "resolve": 0.34
+      }
+    },
+    {
+      "time": 43.025866,
+      "note": 50,
+      "duration": 2.904134,
+      "role": "bass",
+      "velocity": 37,
+      "bar": 16,
+      "beat": 0.04,
+      "source_bar": 32,
+      "state_gain": {
+        "observe": 0.67,
+        "hold": 0,
+        "resolve": 0.7
+      }
+    },
+    {
+      "time": 43.148916,
+      "note": 69,
+      "duration": 2.781084,
+      "role": "melody",
+      "velocity": 54,
+      "bar": 16,
+      "beat": 0.15,
+      "source_bar": 32,
+      "state_gain": {
+        "observe": 0.55,
+        "hold": 0,
+        "resolve": 0.7
+      }
+    },
+    {
+      "time": 43.945354,
+      "note": 59,
+      "duration": 1.984646,
+      "role": "inner",
+      "velocity": 37,
+      "bar": 16,
+      "beat": 0.95,
+      "source_bar": 32,
+      "state_gain": {
+        "observe": 0.5,
+        "hold": 0,
+        "resolve": 0.58
+      }
+    },
+    {
+      "time": 44.023424,
+      "note": 64,
+      "duration": 1.906576,
+      "role": "inner",
+      "velocity": 35,
+      "bar": 16,
+      "beat": 1.02,
+      "source_bar": 32,
+      "state_gain": {
+        "observe": 0.5,
+        "hold": 0,
+        "resolve": 0.58
+      }
+    }
+  ]
+}

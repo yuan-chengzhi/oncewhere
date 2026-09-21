@@ -1,0 +1,1798 @@
+{
+  "title": "第七号柜 · A Place for the Moon",
+  "time_signature": "3/4",
+  "nominal_bpm": 64,
+  "loop_seconds": 92,
+  "bar_starts": [
+    0.0,
+    2.8728708960750433,
+    5.677610466551469,
+    8.46531720562824,
+    11.403480622068626,
+    14.213897803011603,
+    17.081091088620095,
+    19.990866452727722,
+    23.0,
+    25.872870896075042,
+    28.677610466551467,
+    31.46531720562824,
+    34.40348062206862,
+    37.2138978030116,
+    40.08109108862009,
+    42.990866452727715,
+    45.99999999999999,
+    48.872870896075035,
+    51.677610466551464,
+    54.46531720562824,
+    57.40348062206862,
+    60.2138978030116,
+    63.08109108862009,
+    65.99086645272772,
+    69.0,
+    71.87287089607504,
+    74.67761046655147,
+    77.46531720562824,
+    80.40348062206863,
+    83.2138978030116,
+    86.0810910886201,
+    88.99086645272773,
+    92.00000000000001
+  ],
+  "events": [
+    {
+      "time": 0.035,
+      "note": 38,
+      "duration": 2.767871,
+      "role": "bass",
+      "velocity": 37,
+      "bar": 1,
+      "beat": 0.04
+    },
+    {
+      "time": 0.260287,
+      "note": 78,
+      "duration": 2.542584,
+      "role": "melody",
+      "velocity": 53,
+      "bar": 1,
+      "beat": 0.25
+    },
+    {
+      "time": 0.795066,
+      "note": 57,
+      "duration": 2.007805,
+      "role": "inner",
+      "velocity": 35,
+      "bar": 1,
+      "beat": 0.83
+    },
+    {
+      "time": 1.388688,
+      "note": 62,
+      "duration": 1.414183,
+      "role": "inner",
+      "velocity": 38,
+      "bar": 1,
+      "beat": 1.46
+    },
+    {
+      "time": 1.589098,
+      "note": 76,
+      "duration": 1.213772,
+      "role": "melody",
+      "velocity": 49,
+      "bar": 1,
+      "beat": 1.65
+    },
+    {
+      "time": 2.028923,
+      "note": 66,
+      "duration": 0.773948,
+      "role": "inner",
+      "velocity": 38,
+      "bar": 1,
+      "beat": 2.12
+    },
+    {
+      "time": 2.298799,
+      "note": 74,
+      "duration": 0.504072,
+      "role": "melody",
+      "velocity": 51,
+      "bar": 1,
+      "beat": 2.4
+    },
+    {
+      "time": 2.909726,
+      "note": 49,
+      "duration": 2.697885,
+      "role": "bass",
+      "velocity": 37,
+      "bar": 2,
+      "beat": 0.04
+    },
+    {
+      "time": 3.068236,
+      "note": 73,
+      "duration": 2.539375,
+      "role": "melody",
+      "velocity": 56,
+      "bar": 2,
+      "beat": 0.2
+    },
+    {
+      "time": 3.605401,
+      "note": 57,
+      "duration": 2.002209,
+      "role": "inner",
+      "velocity": 38,
+      "bar": 2,
+      "beat": 0.78
+    },
+    {
+      "time": 4.187103,
+      "note": 64,
+      "duration": 1.420508,
+      "role": "inner",
+      "velocity": 41,
+      "bar": 2,
+      "beat": 1.4
+    },
+    {
+      "time": 4.660882,
+      "note": 69,
+      "duration": 0.946729,
+      "role": "melody",
+      "velocity": 54,
+      "bar": 2,
+      "beat": 1.9
+    },
+    {
+      "time": 4.936861,
+      "note": 66,
+      "duration": 0.670749,
+      "role": "inner",
+      "velocity": 39,
+      "bar": 2,
+      "beat": 2.2
+    },
+    {
+      "time": 5.71261,
+      "note": 47,
+      "duration": 2.682707,
+      "role": "bass",
+      "velocity": 39,
+      "bar": 3,
+      "beat": 0.04
+    },
+    {
+      "time": 5.772958,
+      "note": 74,
+      "duration": 2.622359,
+      "role": "melody",
+      "velocity": 60,
+      "bar": 3,
+      "beat": 0.1
+    },
+    {
+      "time": 6.461214,
+      "note": 57,
+      "duration": 1.934103,
+      "role": "inner",
+      "velocity": 38,
+      "bar": 3,
+      "beat": 0.83
+    },
+    {
+      "time": 6.609049,
+      "note": 78,
+      "duration": 1.786269,
+      "role": "melody",
+      "velocity": 53,
+      "bar": 3,
+      "beat": 1.0
+    },
+    {
+      "time": 7.039658,
+      "note": 62,
+      "duration": 1.355659,
+      "role": "inner",
+      "velocity": 41,
+      "bar": 3,
+      "beat": 1.46
+    },
+    {
+      "time": 7.543045,
+      "note": 76,
+      "duration": 0.852273,
+      "role": "melody",
+      "velocity": 52,
+      "bar": 3,
+      "beat": 2.0
+    },
+    {
+      "time": 7.658168,
+      "note": 66,
+      "duration": 0.737149,
+      "role": "inner",
+      "velocity": 41,
+      "bar": 3,
+      "beat": 2.12
+    },
+    {
+      "time": 8.513109,
+      "note": 43,
+      "duration": 2.820372,
+      "role": "bass",
+      "velocity": 40,
+      "bar": 4,
+      "beat": 0.04
+    },
+    {
+      "time": 8.56383,
+      "note": 74,
+      "duration": 2.769651,
+      "role": "melody",
+      "velocity": 61,
+      "bar": 4,
+      "beat": 0.1
+    },
+    {
+      "time": 9.394119,
+      "note": 62,
+      "duration": 1.939361,
+      "role": "inner",
+      "velocity": 42,
+      "bar": 4,
+      "beat": 0.95
+    },
+    {
+      "time": 9.455564,
+      "note": 66,
+      "duration": 1.877916,
+      "role": "inner",
+      "velocity": 40,
+      "bar": 4,
+      "beat": 1.02
+    },
+    {
+      "time": 10.579733,
+      "note": 71,
+      "duration": 0.753747,
+      "role": "melody",
+      "velocity": 54,
+      "bar": 4,
+      "beat": 2.15
+    },
+    {
+      "time": 11.447182,
+      "note": 52,
+      "duration": 2.696716,
+      "role": "bass",
+      "velocity": 39,
+      "bar": 5,
+      "beat": 0.04
+    },
+    {
+      "time": 11.609489,
+      "note": 71,
+      "duration": 2.534409,
+      "role": "melody",
+      "velocity": 60,
+      "bar": 5,
+      "beat": 0.2
+    },
+    {
+      "time": 12.19496,
+      "note": 55,
+      "duration": 1.948938,
+      "role": "inner",
+      "velocity": 39,
+      "bar": 5,
+      "beat": 0.83
+    },
+    {
+      "time": 12.597631,
+      "note": 74,
+      "duration": 1.546267,
+      "role": "melody",
+      "velocity": 55,
+      "bar": 5,
+      "beat": 1.25
+    },
+    {
+      "time": 12.772936,
+      "note": 59,
+      "duration": 1.370962,
+      "role": "inner",
+      "velocity": 42,
+      "bar": 5,
+      "beat": 1.46
+    },
+    {
+      "time": 13.380087,
+      "note": 66,
+      "duration": 0.763811,
+      "role": "inner",
+      "velocity": 42,
+      "bar": 5,
+      "beat": 2.12
+    },
+    {
+      "time": 13.42917,
+      "note": 78,
+      "duration": 0.714728,
+      "role": "melody",
+      "velocity": 55,
+      "bar": 5,
+      "beat": 2.15
+    },
+    {
+      "time": 14.248898,
+      "note": 45,
+      "duration": 2.762193,
+      "role": "bass",
+      "velocity": 39,
+      "bar": 6,
+      "beat": 0.04
+    },
+    {
+      "time": 14.365453,
+      "note": 76,
+      "duration": 2.645638,
+      "role": "melody",
+      "velocity": 58,
+      "bar": 6,
+      "beat": 0.15
+    },
+    {
+      "time": 14.971187,
+      "note": 55,
+      "duration": 2.039905,
+      "role": "inner",
+      "velocity": 40,
+      "bar": 6,
+      "beat": 0.78
+    },
+    {
+      "time": 15.555509,
+      "note": 62,
+      "duration": 1.455582,
+      "role": "inner",
+      "velocity": 43,
+      "bar": 6,
+      "beat": 1.4
+    },
+    {
+      "time": 16.225746,
+      "note": 73,
+      "duration": 0.785346,
+      "role": "melody",
+      "velocity": 54,
+      "bar": 6,
+      "beat": 2.1
+    },
+    {
+      "time": 16.321117,
+      "note": 64,
+      "duration": 0.689974,
+      "role": "inner",
+      "velocity": 41,
+      "bar": 6,
+      "beat": 2.2
+    },
+    {
+      "time": 17.116091,
+      "note": 50,
+      "duration": 2.804775,
+      "role": "bass",
+      "velocity": 42,
+      "bar": 7,
+      "beat": 0.04
+    },
+    {
+      "time": 17.239072,
+      "note": 74,
+      "duration": 2.681795,
+      "role": "melody",
+      "velocity": 56,
+      "bar": 7,
+      "beat": 0.15
+    },
+    {
+      "time": 17.89281,
+      "note": 57,
+      "duration": 2.028057,
+      "role": "inner",
+      "velocity": 38,
+      "bar": 7,
+      "beat": 0.83
+    },
+    {
+      "time": 18.489335,
+      "note": 61,
+      "duration": 1.431531,
+      "role": "inner",
+      "velocity": 41,
+      "bar": 7,
+      "beat": 1.46
+    },
+    {
+      "time": 19.134578,
+      "note": 66,
+      "duration": 0.786289,
+      "role": "inner",
+      "velocity": 41,
+      "bar": 7,
+      "beat": 2.12
+    },
+    {
+      "time": 20.026413,
+      "note": 45,
+      "duration": 2.903587,
+      "role": "bass",
+      "velocity": 38,
+      "bar": 8,
+      "beat": 0.04
+    },
+    {
+      "time": 20.957553,
+      "note": 59,
+      "duration": 1.972447,
+      "role": "inner",
+      "velocity": 40,
+      "bar": 8,
+      "beat": 0.95
+    },
+    {
+      "time": 21.004471,
+      "note": 64,
+      "duration": 1.925529,
+      "role": "inner",
+      "velocity": 38,
+      "bar": 8,
+      "beat": 1.02
+    },
+    {
+      "time": 21.095398,
+      "note": 69,
+      "duration": 1.834602,
+      "role": "melody",
+      "velocity": 58,
+      "bar": 8,
+      "beat": 1.1
+    },
+    {
+      "time": 22.116038,
+      "note": 71,
+      "duration": 0.813962,
+      "role": "melody",
+      "velocity": 50,
+      "bar": 8,
+      "beat": 2.1
+    },
+    {
+      "time": 23.041656,
+      "note": 38,
+      "duration": 2.761215,
+      "role": "bass",
+      "velocity": 37,
+      "bar": 9,
+      "beat": 0.04
+    },
+    {
+      "time": 23.155078,
+      "note": 78,
+      "duration": 2.647793,
+      "role": "melody",
+      "velocity": 52,
+      "bar": 9,
+      "beat": 0.15
+    },
+    {
+      "time": 23.800077,
+      "note": 57,
+      "duration": 2.002794,
+      "role": "inner",
+      "velocity": 35,
+      "bar": 9,
+      "beat": 0.83
+    },
+    {
+      "time": 24.389891,
+      "note": 76,
+      "duration": 1.41298,
+      "role": "melody",
+      "velocity": 48,
+      "bar": 9,
+      "beat": 1.45
+    },
+    {
+      "time": 24.392689,
+      "note": 62,
+      "duration": 1.410182,
+      "role": "inner",
+      "velocity": 38,
+      "bar": 9,
+      "beat": 1.46
+    },
+    {
+      "time": 24.972229,
+      "note": 74,
+      "duration": 0.830642,
+      "role": "melody",
+      "velocity": 48,
+      "bar": 9,
+      "beat": 2.05
+    },
+    {
+      "time": 25.019306,
+      "note": 66,
+      "duration": 0.783565,
+      "role": "inner",
+      "velocity": 38,
+      "bar": 9,
+      "beat": 2.12
+    },
+    {
+      "time": 25.91174,
+      "note": 42,
+      "duration": 2.69587,
+      "role": "bass",
+      "velocity": 39,
+      "bar": 10,
+      "beat": 0.04
+    },
+    {
+      "time": 26.018569,
+      "note": 73,
+      "duration": 2.589041,
+      "role": "melody",
+      "velocity": 57,
+      "bar": 10,
+      "beat": 0.15
+    },
+    {
+      "time": 26.601917,
+      "note": 57,
+      "duration": 2.005694,
+      "role": "inner",
+      "velocity": 38,
+      "bar": 10,
+      "beat": 0.78
+    },
+    {
+      "time": 26.863955,
+      "note": 76,
+      "duration": 1.743656,
+      "role": "melody",
+      "velocity": 53,
+      "bar": 10,
+      "beat": 1.05
+    },
+    {
+      "time": 27.179664,
+      "note": 64,
+      "duration": 1.427946,
+      "role": "inner",
+      "velocity": 41,
+      "bar": 10,
+      "beat": 1.4
+    },
+    {
+      "time": 27.801055,
+      "note": 81,
+      "duration": 0.806556,
+      "role": "melody",
+      "velocity": 51,
+      "bar": 10,
+      "beat": 2.05
+    },
+    {
+      "time": 27.919458,
+      "note": 64,
+      "duration": 0.688152,
+      "role": "inner",
+      "velocity": 39,
+      "bar": 10,
+      "beat": 2.2
+    },
+    {
+      "time": 28.719936,
+      "note": 47,
+      "duration": 2.675381,
+      "role": "bass",
+      "velocity": 39,
+      "bar": 11,
+      "beat": 0.04
+    },
+    {
+      "time": 28.8753,
+      "note": 78,
+      "duration": 2.520017,
+      "role": "melody",
+      "velocity": 59,
+      "bar": 11,
+      "beat": 0.2
+    },
+    {
+      "time": 29.451363,
+      "note": 57,
+      "duration": 1.943955,
+      "role": "inner",
+      "velocity": 38,
+      "bar": 11,
+      "beat": 0.83
+    },
+    {
+      "time": 30.040596,
+      "note": 61,
+      "duration": 1.354721,
+      "role": "inner",
+      "velocity": 41,
+      "bar": 11,
+      "beat": 1.46
+    },
+    {
+      "time": 30.348316,
+      "note": 76,
+      "duration": 1.047001,
+      "role": "melody",
+      "velocity": 52,
+      "bar": 11,
+      "beat": 1.8
+    },
+    {
+      "time": 30.638299,
+      "note": 66,
+      "duration": 0.757018,
+      "role": "inner",
+      "velocity": 41,
+      "bar": 11,
+      "beat": 2.12
+    },
+    {
+      "time": 31.500317,
+      "note": 45,
+      "duration": 2.833163,
+      "role": "bass",
+      "velocity": 42,
+      "bar": 12,
+      "beat": 0.04
+    },
+    {
+      "time": 31.676873,
+      "note": 74,
+      "duration": 2.656607,
+      "role": "melody",
+      "velocity": 60,
+      "bar": 12,
+      "beat": 0.2
+    },
+    {
+      "time": 32.385265,
+      "note": 62,
+      "duration": 1.948216,
+      "role": "inner",
+      "velocity": 42,
+      "bar": 12,
+      "beat": 0.95
+    },
+    {
+      "time": 32.466848,
+      "note": 66,
+      "duration": 1.866633,
+      "role": "inner",
+      "velocity": 40,
+      "bar": 12,
+      "beat": 1.02
+    },
+    {
+      "time": 33.680343,
+      "note": 71,
+      "duration": 0.653138,
+      "role": "melody",
+      "velocity": 57,
+      "bar": 12,
+      "beat": 2.25
+    },
+    {
+      "time": 34.453481,
+      "note": 43,
+      "duration": 2.690416,
+      "role": "bass",
+      "velocity": 41,
+      "bar": 13,
+      "beat": 0.04
+    },
+    {
+      "time": 34.56765,
+      "note": 71,
+      "duration": 2.576248,
+      "role": "melody",
+      "velocity": 60,
+      "bar": 13,
+      "beat": 0.15
+    },
+    {
+      "time": 35.176671,
+      "note": 57,
+      "duration": 1.967227,
+      "role": "inner",
+      "velocity": 39,
+      "bar": 13,
+      "beat": 0.83
+    },
+    {
+      "time": 35.448533,
+      "note": 74,
+      "duration": 1.695365,
+      "role": "melody",
+      "velocity": 56,
+      "bar": 13,
+      "beat": 1.1
+    },
+    {
+      "time": 35.77393,
+      "note": 59,
+      "duration": 1.369968,
+      "role": "inner",
+      "velocity": 42,
+      "bar": 13,
+      "beat": 1.46
+    },
+    {
+      "time": 36.291508,
+      "note": 79,
+      "duration": 0.85239,
+      "role": "melody",
+      "velocity": 54,
+      "bar": 13,
+      "beat": 2.0
+    },
+    {
+      "time": 36.383602,
+      "note": 66,
+      "duration": 0.760296,
+      "role": "inner",
+      "velocity": 42,
+      "bar": 13,
+      "beat": 2.12
+    },
+    {
+      "time": 37.248898,
+      "note": 52,
+      "duration": 2.762193,
+      "role": "bass",
+      "velocity": 41,
+      "bar": 14,
+      "beat": 0.04
+    },
+    {
+      "time": 37.363941,
+      "note": 78,
+      "duration": 2.64715,
+      "role": "melody",
+      "velocity": 60,
+      "bar": 14,
+      "beat": 0.15
+    },
+    {
+      "time": 37.953177,
+      "note": 55,
+      "duration": 2.057914,
+      "role": "inner",
+      "velocity": 40,
+      "bar": 14,
+      "beat": 0.78
+    },
+    {
+      "time": 38.223343,
+      "note": 76,
+      "duration": 1.787748,
+      "role": "melody",
+      "velocity": 54,
+      "bar": 14,
+      "beat": 1.05
+    },
+    {
+      "time": 38.558487,
+      "note": 62,
+      "duration": 1.452604,
+      "role": "inner",
+      "velocity": 43,
+      "bar": 14,
+      "beat": 1.4
+    },
+    {
+      "time": 39.145348,
+      "note": 74,
+      "duration": 0.865743,
+      "role": "melody",
+      "velocity": 57,
+      "bar": 14,
+      "beat": 2.0
+    },
+    {
+      "time": 39.320996,
+      "note": 62,
+      "duration": 0.690095,
+      "role": "inner",
+      "velocity": 41,
+      "bar": 14,
+      "beat": 2.2
+    },
+    {
+      "time": 40.124606,
+      "note": 45,
+      "duration": 2.796261,
+      "role": "bass",
+      "velocity": 40,
+      "bar": 15,
+      "beat": 0.04
+    },
+    {
+      "time": 40.177018,
+      "note": 76,
+      "duration": 2.743849,
+      "role": "melody",
+      "velocity": 57,
+      "bar": 15,
+      "beat": 0.1
+    },
+    {
+      "time": 40.883034,
+      "note": 55,
+      "duration": 2.037832,
+      "role": "inner",
+      "velocity": 38,
+      "bar": 15,
+      "beat": 0.83
+    },
+    {
+      "time": 41.496227,
+      "note": 74,
+      "duration": 1.42464,
+      "role": "melody",
+      "velocity": 56,
+      "bar": 15,
+      "beat": 1.45
+    },
+    {
+      "time": 41.499601,
+      "note": 57,
+      "duration": 1.421266,
+      "role": "inner",
+      "velocity": 41,
+      "bar": 15,
+      "beat": 1.46
+    },
+    {
+      "time": 42.088544,
+      "note": 73,
+      "duration": 0.832323,
+      "role": "melody",
+      "velocity": 53,
+      "bar": 15,
+      "beat": 2.05
+    },
+    {
+      "time": 42.144561,
+      "note": 64,
+      "duration": 0.776306,
+      "role": "inner",
+      "velocity": 41,
+      "bar": 15,
+      "beat": 2.12
+    },
+    {
+      "time": 43.025866,
+      "note": 50,
+      "duration": 2.904134,
+      "role": "bass",
+      "velocity": 40,
+      "bar": 16,
+      "beat": 0.04
+    },
+    {
+      "time": 43.211123,
+      "note": 74,
+      "duration": 2.718877,
+      "role": "melody",
+      "velocity": 58,
+      "bar": 16,
+      "beat": 0.2
+    },
+    {
+      "time": 43.93248,
+      "note": 62,
+      "duration": 1.99752,
+      "role": "inner",
+      "velocity": 40,
+      "bar": 16,
+      "beat": 0.95
+    },
+    {
+      "time": 44.007398,
+      "note": 66,
+      "duration": 1.922602,
+      "role": "inner",
+      "velocity": 38,
+      "bar": 16,
+      "beat": 1.02
+    },
+    {
+      "time": 46.035,
+      "note": 43,
+      "duration": 2.767871,
+      "role": "bass",
+      "velocity": 39,
+      "bar": 17,
+      "beat": 0.04
+    },
+    {
+      "time": 46.301632,
+      "note": 74,
+      "duration": 2.501239,
+      "role": "melody",
+      "velocity": 58,
+      "bar": 17,
+      "beat": 0.3
+    },
+    {
+      "time": 46.790324,
+      "note": 57,
+      "duration": 2.012547,
+      "role": "inner",
+      "velocity": 35,
+      "bar": 17,
+      "beat": 0.83
+    },
+    {
+      "time": 47.197168,
+      "note": 79,
+      "duration": 1.605703,
+      "role": "melody",
+      "velocity": 54,
+      "bar": 17,
+      "beat": 1.25
+    },
+    {
+      "time": 47.398198,
+      "note": 59,
+      "duration": 1.404673,
+      "role": "inner",
+      "velocity": 38,
+      "bar": 17,
+      "beat": 1.46
+    },
+    {
+      "time": 48.026268,
+      "note": 66,
+      "duration": 0.776603,
+      "role": "inner",
+      "velocity": 38,
+      "bar": 17,
+      "beat": 2.12
+    },
+    {
+      "time": 48.077582,
+      "note": 81,
+      "duration": 0.725289,
+      "role": "melody",
+      "velocity": 53,
+      "bar": 17,
+      "beat": 2.15
+    },
+    {
+      "time": 48.910111,
+      "note": 42,
+      "duration": 2.6975,
+      "role": "bass",
+      "velocity": 37,
+      "bar": 18,
+      "beat": 0.04
+    },
+    {
+      "time": 49.021053,
+      "note": 78,
+      "duration": 2.586558,
+      "role": "melody",
+      "velocity": 58,
+      "bar": 18,
+      "beat": 0.15
+    },
+    {
+      "time": 49.614046,
+      "note": 57,
+      "duration": 1.993565,
+      "role": "inner",
+      "velocity": 38,
+      "bar": 18,
+      "beat": 0.78
+    },
+    {
+      "time": 50.18491,
+      "note": 64,
+      "duration": 1.4227,
+      "role": "inner",
+      "velocity": 41,
+      "bar": 18,
+      "beat": 1.4
+    },
+    {
+      "time": 50.389782,
+      "note": 76,
+      "duration": 1.217829,
+      "role": "melody",
+      "velocity": 53,
+      "bar": 18,
+      "beat": 1.6
+    },
+    {
+      "time": 50.937659,
+      "note": 64,
+      "duration": 0.669952,
+      "role": "inner",
+      "velocity": 39,
+      "bar": 18,
+      "beat": 2.2
+    },
+    {
+      "time": 50.986565,
+      "note": 74,
+      "duration": 0.621046,
+      "role": "melody",
+      "velocity": 56,
+      "bar": 18,
+      "beat": 2.25
+    },
+    {
+      "time": 51.71261,
+      "note": 52,
+      "duration": 2.682707,
+      "role": "bass",
+      "velocity": 38,
+      "bar": 19,
+      "beat": 0.04
+    },
+    {
+      "time": 51.824032,
+      "note": 76,
+      "duration": 2.571285,
+      "role": "melody",
+      "velocity": 60,
+      "bar": 19,
+      "beat": 0.15
+    },
+    {
+      "time": 52.458157,
+      "note": 55,
+      "duration": 1.937161,
+      "role": "inner",
+      "velocity": 38,
+      "bar": 19,
+      "beat": 0.83
+    },
+    {
+      "time": 52.706673,
+      "note": 79,
+      "duration": 1.688644,
+      "role": "melody",
+      "velocity": 55,
+      "bar": 19,
+      "beat": 1.1
+    },
+    {
+      "time": 53.027724,
+      "note": 59,
+      "duration": 1.367594,
+      "role": "inner",
+      "velocity": 41,
+      "bar": 19,
+      "beat": 1.46
+    },
+    {
+      "time": 53.559389,
+      "note": 83,
+      "duration": 0.835928,
+      "role": "melody",
+      "velocity": 57,
+      "bar": 19,
+      "beat": 2.0
+    },
+    {
+      "time": 53.642252,
+      "note": 66,
+      "duration": 0.753065,
+      "role": "inner",
+      "velocity": 41,
+      "bar": 19,
+      "beat": 2.12
+    },
+    {
+      "time": 54.507762,
+      "note": 45,
+      "duration": 2.825719,
+      "role": "bass",
+      "velocity": 41,
+      "bar": 20,
+      "beat": 0.04
+    },
+    {
+      "time": 54.634333,
+      "note": 81,
+      "duration": 2.699147,
+      "role": "melody",
+      "velocity": 64,
+      "bar": 20,
+      "beat": 0.15
+    },
+    {
+      "time": 55.400818,
+      "note": 59,
+      "duration": 1.932662,
+      "role": "inner",
+      "velocity": 42,
+      "bar": 20,
+      "beat": 0.95
+    },
+    {
+      "time": 55.464783,
+      "note": 64,
+      "duration": 1.868698,
+      "role": "inner",
+      "velocity": 40,
+      "bar": 20,
+      "beat": 1.02
+    },
+    {
+      "time": 56.642456,
+      "note": 76,
+      "duration": 0.691025,
+      "role": "melody",
+      "velocity": 59,
+      "bar": 20,
+      "beat": 2.2
+    },
+    {
+      "time": 57.447075,
+      "note": 47,
+      "duration": 2.696823,
+      "role": "bass",
+      "velocity": 42,
+      "bar": 21,
+      "beat": 0.04
+    },
+    {
+      "time": 57.557312,
+      "note": 78,
+      "duration": 2.586586,
+      "role": "melody",
+      "velocity": 63,
+      "bar": 21,
+      "beat": 0.15
+    },
+    {
+      "time": 58.171938,
+      "note": 57,
+      "duration": 1.97196,
+      "role": "inner",
+      "velocity": 39,
+      "bar": 21,
+      "beat": 0.83
+    },
+    {
+      "time": 58.536433,
+      "note": 76,
+      "duration": 1.607465,
+      "role": "melody",
+      "velocity": 57,
+      "bar": 21,
+      "beat": 1.2
+    },
+    {
+      "time": 58.764091,
+      "note": 61,
+      "duration": 1.379807,
+      "role": "inner",
+      "velocity": 42,
+      "bar": 21,
+      "beat": 1.46
+    },
+    {
+      "time": 59.371784,
+      "note": 74,
+      "duration": 0.772113,
+      "role": "melody",
+      "velocity": 59,
+      "bar": 21,
+      "beat": 2.1
+    },
+    {
+      "time": 59.388708,
+      "note": 66,
+      "duration": 0.75519,
+      "role": "inner",
+      "velocity": 42,
+      "bar": 21,
+      "beat": 2.12
+    },
+    {
+      "time": 60.250762,
+      "note": 42,
+      "duration": 2.760329,
+      "role": "bass",
+      "velocity": 42,
+      "bar": 22,
+      "beat": 0.04
+    },
+    {
+      "time": 60.427725,
+      "note": 73,
+      "duration": 2.583366,
+      "role": "melody",
+      "velocity": 61,
+      "bar": 22,
+      "beat": 0.2
+    },
+    {
+      "time": 60.968905,
+      "note": 57,
+      "duration": 2.042186,
+      "role": "inner",
+      "velocity": 40,
+      "bar": 22,
+      "beat": 0.78
+    },
+    {
+      "time": 61.459696,
+      "note": 69,
+      "duration": 1.551395,
+      "role": "melody",
+      "velocity": 60,
+      "bar": 22,
+      "beat": 1.3
+    },
+    {
+      "time": 61.555568,
+      "note": 64,
+      "duration": 1.455523,
+      "role": "inner",
+      "velocity": 43,
+      "bar": 22,
+      "beat": 1.4
+    },
+    {
+      "time": 62.327719,
+      "note": 64,
+      "duration": 0.683373,
+      "role": "inner",
+      "velocity": 41,
+      "bar": 22,
+      "beat": 2.2
+    },
+    {
+      "time": 63.119365,
+      "note": 43,
+      "duration": 2.801501,
+      "role": "bass",
+      "velocity": 39,
+      "bar": 23,
+      "beat": 0.04
+    },
+    {
+      "time": 63.289264,
+      "note": 71,
+      "duration": 2.631602,
+      "role": "melody",
+      "velocity": 59,
+      "bar": 23,
+      "beat": 0.2
+    },
+    {
+      "time": 63.89095,
+      "note": 59,
+      "duration": 2.029916,
+      "role": "inner",
+      "velocity": 38,
+      "bar": 23,
+      "beat": 0.83
+    },
+    {
+      "time": 64.152428,
+      "note": 74,
+      "duration": 1.768439,
+      "role": "melody",
+      "velocity": 57,
+      "bar": 23,
+      "beat": 1.1
+    },
+    {
+      "time": 64.5079,
+      "note": 62,
+      "duration": 1.412966,
+      "role": "inner",
+      "velocity": 41,
+      "bar": 23,
+      "beat": 1.46
+    },
+    {
+      "time": 64.996173,
+      "note": 78,
+      "duration": 0.924693,
+      "role": "melody",
+      "velocity": 56,
+      "bar": 23,
+      "beat": 1.95
+    },
+    {
+      "time": 65.125969,
+      "note": 66,
+      "duration": 0.794898,
+      "role": "inner",
+      "velocity": 41,
+      "bar": 23,
+      "beat": 2.12
+    },
+    {
+      "time": 66.029384,
+      "note": 45,
+      "duration": 2.900616,
+      "role": "bass",
+      "velocity": 40,
+      "bar": 24,
+      "beat": 0.04
+    },
+    {
+      "time": 66.147847,
+      "note": 76,
+      "duration": 2.782153,
+      "role": "melody",
+      "velocity": 58,
+      "bar": 24,
+      "beat": 0.15
+    },
+    {
+      "time": 66.951687,
+      "note": 59,
+      "duration": 1.978313,
+      "role": "inner",
+      "velocity": 40,
+      "bar": 24,
+      "beat": 0.95
+    },
+    {
+      "time": 67.026804,
+      "note": 64,
+      "duration": 1.903196,
+      "role": "inner",
+      "velocity": 38,
+      "bar": 24,
+      "beat": 1.02
+    },
+    {
+      "time": 69.048533,
+      "note": 38,
+      "duration": 2.754338,
+      "role": "bass",
+      "velocity": 34,
+      "bar": 25,
+      "beat": 0.04
+    },
+    {
+      "time": 69.209149,
+      "note": 78,
+      "duration": 2.593722,
+      "role": "melody",
+      "velocity": 51,
+      "bar": 25,
+      "beat": 0.2
+    },
+    {
+      "time": 69.798202,
+      "note": 57,
+      "duration": 2.004669,
+      "role": "inner",
+      "velocity": 33,
+      "bar": 25,
+      "beat": 0.83
+    },
+    {
+      "time": 70.39013,
+      "note": 62,
+      "duration": 1.412741,
+      "role": "inner",
+      "velocity": 35,
+      "bar": 25,
+      "beat": 1.46
+    },
+    {
+      "time": 70.580835,
+      "note": 76,
+      "duration": 1.222036,
+      "role": "melody",
+      "velocity": 46,
+      "bar": 25,
+      "beat": 1.65
+    },
+    {
+      "time": 71.024436,
+      "note": 66,
+      "duration": 0.778435,
+      "role": "inner",
+      "velocity": 35,
+      "bar": 25,
+      "beat": 2.12
+    },
+    {
+      "time": 71.207469,
+      "note": 74,
+      "duration": 0.595402,
+      "role": "melody",
+      "velocity": 46,
+      "bar": 25,
+      "beat": 2.3
+    },
+    {
+      "time": 71.907871,
+      "note": 49,
+      "duration": 2.69974,
+      "role": "bass",
+      "velocity": 35,
+      "bar": 26,
+      "beat": 0.04
+    },
+    {
+      "time": 72.070002,
+      "note": 73,
+      "duration": 2.537608,
+      "role": "melody",
+      "velocity": 52,
+      "bar": 26,
+      "beat": 0.2
+    },
+    {
+      "time": 72.591717,
+      "note": 57,
+      "duration": 2.015893,
+      "role": "inner",
+      "velocity": 35,
+      "bar": 26,
+      "beat": 0.78
+    },
+    {
+      "time": 73.173795,
+      "note": 64,
+      "duration": 1.433816,
+      "role": "inner",
+      "velocity": 38,
+      "bar": 26,
+      "beat": 1.4
+    },
+    {
+      "time": 73.611347,
+      "note": 69,
+      "duration": 0.996264,
+      "role": "melody",
+      "velocity": 51,
+      "bar": 26,
+      "beat": 1.85
+    },
+    {
+      "time": 73.930721,
+      "note": 66,
+      "duration": 0.676889,
+      "role": "inner",
+      "velocity": 36,
+      "bar": 26,
+      "beat": 2.2
+    },
+    {
+      "time": 74.71261,
+      "note": 47,
+      "duration": 2.682707,
+      "role": "bass",
+      "velocity": 37,
+      "bar": 27,
+      "beat": 0.04
+    },
+    {
+      "time": 74.871532,
+      "note": 74,
+      "duration": 2.523785,
+      "role": "melody",
+      "velocity": 52,
+      "bar": 27,
+      "beat": 0.2
+    },
+    {
+      "time": 75.449185,
+      "note": 57,
+      "duration": 1.946133,
+      "role": "inner",
+      "velocity": 35,
+      "bar": 27,
+      "beat": 0.83
+    },
+    {
+      "time": 75.71379,
+      "note": 78,
+      "duration": 1.681527,
+      "role": "melody",
+      "velocity": 48,
+      "bar": 27,
+      "beat": 1.1
+    },
+    {
+      "time": 76.039053,
+      "note": 62,
+      "duration": 1.356264,
+      "role": "inner",
+      "velocity": 38,
+      "bar": 27,
+      "beat": 1.46
+    },
+    {
+      "time": 76.580754,
+      "note": 76,
+      "duration": 0.814563,
+      "role": "melody",
+      "velocity": 51,
+      "bar": 27,
+      "beat": 2.05
+    },
+    {
+      "time": 76.647815,
+      "note": 66,
+      "duration": 0.747503,
+      "role": "inner",
+      "velocity": 38,
+      "bar": 27,
+      "beat": 2.12
+    },
+    {
+      "time": 77.505019,
+      "note": 43,
+      "duration": 2.828461,
+      "role": "bass",
+      "velocity": 38,
+      "bar": 28,
+      "beat": 0.04
+    },
+    {
+      "time": 77.619169,
+      "note": 74,
+      "duration": 2.714312,
+      "role": "melody",
+      "velocity": 57,
+      "bar": 28,
+      "beat": 0.15
+    },
+    {
+      "time": 78.402696,
+      "note": 62,
+      "duration": 1.930784,
+      "role": "inner",
+      "velocity": 39,
+      "bar": 28,
+      "beat": 0.95
+    },
+    {
+      "time": 78.467682,
+      "note": 66,
+      "duration": 1.865799,
+      "role": "inner",
+      "velocity": 37,
+      "bar": 28,
+      "beat": 1.02
+    },
+    {
+      "time": 79.592157,
+      "note": 71,
+      "duration": 0.741323,
+      "role": "melody",
+      "velocity": 49,
+      "bar": 28,
+      "beat": 2.15
+    },
+    {
+      "time": 80.446508,
+      "note": 52,
+      "duration": 2.69739,
+      "role": "bass",
+      "velocity": 39,
+      "bar": 29,
+      "beat": 0.04
+    },
+    {
+      "time": 80.601469,
+      "note": 71,
+      "duration": 2.542429,
+      "role": "melody",
+      "velocity": 57,
+      "bar": 29,
+      "beat": 0.2
+    },
+    {
+      "time": 81.194359,
+      "note": 55,
+      "duration": 1.949539,
+      "role": "inner",
+      "velocity": 36,
+      "bar": 29,
+      "beat": 0.83
+    },
+    {
+      "time": 81.528963,
+      "note": 74,
+      "duration": 1.614934,
+      "role": "melody",
+      "velocity": 54,
+      "bar": 29,
+      "beat": 1.2
+    },
+    {
+      "time": 81.768943,
+      "note": 59,
+      "duration": 1.374955,
+      "role": "inner",
+      "velocity": 39,
+      "bar": 29,
+      "beat": 1.46
+    },
+    {
+      "time": 82.389483,
+      "note": 66,
+      "duration": 0.754414,
+      "role": "inner",
+      "velocity": 39,
+      "bar": 29,
+      "beat": 2.12
+    },
+    {
+      "time": 82.415792,
+      "note": 78,
+      "duration": 0.728106,
+      "role": "melody",
+      "velocity": 54,
+      "bar": 29,
+      "beat": 2.15
+    },
+    {
+      "time": 83.257368,
+      "note": 45,
+      "duration": 2.753723,
+      "role": "bass",
+      "velocity": 37,
+      "bar": 30,
+      "beat": 0.04
+    },
+    {
+      "time": 83.42254,
+      "note": 76,
+      "duration": 2.588551,
+      "role": "melody",
+      "velocity": 55,
+      "bar": 30,
+      "beat": 0.2
+    },
+    {
+      "time": 83.955405,
+      "note": 55,
+      "duration": 2.055686,
+      "role": "inner",
+      "velocity": 37,
+      "bar": 30,
+      "beat": 0.78
+    },
+    {
+      "time": 84.550087,
+      "note": 61,
+      "duration": 1.461004,
+      "role": "inner",
+      "velocity": 40,
+      "bar": 30,
+      "beat": 1.4
+    },
+    {
+      "time": 84.981914,
+      "note": 73,
+      "duration": 1.029177,
+      "role": "melody",
+      "velocity": 50,
+      "bar": 30,
+      "beat": 1.85
+    },
+    {
+      "time": 85.327132,
+      "note": 64,
+      "duration": 0.683959,
+      "role": "inner",
+      "velocity": 38,
+      "bar": 30,
+      "beat": 2.2
+    },
+    {
+      "time": 86.127808,
+      "note": 50,
+      "duration": 2.793059,
+      "role": "bass",
+      "velocity": 35,
+      "bar": 31,
+      "beat": 0.04
+    },
+    {
+      "time": 86.277699,
+      "note": 74,
+      "duration": 2.643168,
+      "role": "melody",
+      "velocity": 53,
+      "bar": 31,
+      "beat": 0.2
+    },
+    {
+      "time": 86.898677,
+      "note": 57,
+      "duration": 2.02219,
+      "role": "inner",
+      "velocity": 35,
+      "bar": 31,
+      "beat": 0.83
+    },
+    {
+      "time": 87.499928,
+      "note": 62,
+      "duration": 1.420939,
+      "role": "inner",
+      "velocity": 38,
+      "bar": 31,
+      "beat": 1.46
+    },
+    {
+      "time": 88.14565,
+      "note": 66,
+      "duration": 0.775217,
+      "role": "inner",
+      "velocity": 38,
+      "bar": 31,
+      "beat": 2.12
+    },
+    {
+      "time": 89.025866,
+      "note": 50,
+      "duration": 2.904134,
+      "role": "bass",
+      "velocity": 37,
+      "bar": 32,
+      "beat": 0.04
+    },
+    {
+      "time": 89.148916,
+      "note": 69,
+      "duration": 2.781084,
+      "role": "melody",
+      "velocity": 54,
+      "bar": 32,
+      "beat": 0.15
+    },
+    {
+      "time": 89.945354,
+      "note": 59,
+      "duration": 1.984646,
+      "role": "inner",
+      "velocity": 37,
+      "bar": 32,
+      "beat": 0.95
+    },
+    {
+      "time": 90.023424,
+      "note": 64,
+      "duration": 1.906576,
+      "role": "inner",
+      "velocity": 35,
+      "bar": 32,
+      "beat": 1.02
+    }
+  ]
+}

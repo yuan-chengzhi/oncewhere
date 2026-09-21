@@ -1,0 +1,50 @@
+{
+  "bytes": 190688,
+  "names": [
+    "AuxScene",
+    "brooch",
+    "moon_body",
+    "hinged_pin",
+    "socket"
+  ],
+  "threeRevision": "180",
+  "verifiedAt": "2026-09-21",
+  "browser": "Chromium 1234 via Playwright",
+  "renderer": "SwiftShader",
+  "offline": true,
+  "externalRequestCount": 0,
+  "errors": [],
+  "exportedFileBytes": 190688,
+  "glbMagic": "glTF",
+  "glbVersion": 2,
+  "meshCount": 3,
+  "nodeNames": [
+    "brooch",
+    "moon_body",
+    "hinged_pin",
+    "socket"
+  ],
+  "edgeRotation": [
+    0,
+    1.5707963267948966,
+    0
+  ],
+  "backRotation": [
+    0,
+    3.141592653589793,
+    0
+  ],
+  "draggedRotation": [
+    0.19999999999999998,
+    4.101592653589794,
+    0
+  ],
+  "rebuild": {
+    "node": "24.20.0",
+    "command": "npm ci --ignore-scripts --no-audit --no-fund && npm run build",
+    "isolatedDirectory": true,
+    "buildSucceeded": true,
+    "difference": "The initial bundle contains a leading use strict directive; the isolated rebuild is otherwise identical.",
+    "bundleSha256": "51394f1d3001c9f389b958d6e8fb9b1f91e97f43f2b811cc01bdc81a2b62a1ba"
+  }
+}

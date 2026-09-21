@@ -1,0 +1,28 @@
+{
+  "schema": "moon-office-paper-puppet-atlas-1",
+  "coordinate_system": "Source pixels, origin top-left, +x right, +y down. Rect=[x,y,width,height]. Anchors are absolute source-image pixels; subtract rect origin for AtlasTexture-local coordinates.",
+  "alpha_cutoff_suggestion": 0.07,
+  "background": {"file":"office-background.png","size":[1586,992]},
+  "fox": {
+    "file": "fox-puppet-atlas.png", "size": [1536,1024], "mirror_on_stage": false,
+    "parts": {
+      "head": {"rect":[102,8,427,508],"pivot":[310,463],"scale":1.0,"anchors":{"neck":[310,463],"eyes":[382,301],"nose":[447,391]}},
+      "torso": {"rect":[582,36,434,481],"pivot":[799,300],"scale":1.0,"anchors":{"neck":[790,85],"shoulder_left":[643,171],"shoulder_right":[942,170],"waist":[800,431]}},
+      "upper_left": {"rect":[1170,65,227,434],"pivot":[1246,123],"scale":0.55,"anchors":{"shoulder":[1246,123],"elbow":[1270,459]}},
+      "upper_right": {"rect":[177,535,244,426],"pivot":[296,582],"scale":0.55,"anchors":{"shoulder":[296,582],"elbow":[298,925]}},
+      "forearm_left": {"rect":[671,532,301,443],"pivot":[766,579],"scale":0.55,"anchors":{"elbow":[766,579],"wrist":[811,767],"palm":[869,872],"fingertip":[949,946]}},
+      "forearm_right": {"rect":[1077,534,293,454],"pivot":[1268,582],"scale":0.55,"anchors":{"elbow":[1268,582],"wrist":[1228,766],"palm":[1170,868],"fingertip":[1117,951]}}
+    }
+  },
+  "dog": {
+    "file": "dog-puppet-atlas.png", "size": [1536,1024], "mirror_on_stage": true,
+    "parts": {
+      "head": {"rect":[78,39,465,451],"pivot":[313,445],"scale":1.0,"anchors":{"neck":[313,445],"eyes":[381,250],"nose":[408,346]}},
+      "torso": {"rect":[618,14,420,505],"pivot":[826,300],"scale":1.0,"anchors":{"neck":[829,72],"shoulder_left":[649,161],"shoulder_right":[1001,166],"waist":[825,445]}},
+      "upper_left": {"rect":[1187,63,246,421],"pivot":[1290,121],"scale":0.55,"anchors":{"shoulder":[1290,121],"elbow":[1319,451]}},
+      "upper_right": {"rect":[148,537,243,440],"pivot":[279,586],"scale":0.55,"anchors":{"shoulder":[279,586],"elbow":[287,944]}},
+      "forearm_left": {"rect":[660,524,337,464],"pivot":[764,573],"scale":0.55,"anchors":{"elbow":[764,573],"wrist":[808,791],"palm":[873,873],"fingertip":[972,954]}},
+      "forearm_right": {"rect":[1093,524,296,471],"pivot":[1265,574],"scale":0.55,"anchors":{"elbow":[1265,574],"wrist":[1244,792],"palm":[1178,886],"fingertip":[1110,958]}}
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "model": "Ruicheng/moge-2-vits-normal",
+  "model_revision": "26b477f41595707c5db6770294c0d1721e8ed4ed",
+  "model_license": "MIT (model card)",
+  "source_sha256": "32c5f9c23c7f989a8a461f35e62ecc43d5394e6493b1af89e9c8d55de349ae7d",
+  "device": "CPU",
+  "threads": 8,
+  "torch_version": "2.14.0+cpu",
+  "input_size": [
+    800,
+    500
+  ],
+  "resolution_level": 3,
+  "inference_seconds_excluding_load": 1.879,
+  "vertices": 44589,
+  "triangles": 82574,
+  "triangles_connected": 88312,
+  "valid_fraction": 1.0,
+  "depth_percentiles": [
+    2.676824369430542,
+    3.7970378398895264,
+    5.5765014219284055
+  ],
+  "intrinsics": [
+    [
+      0.8284463882446289,
+      0.0,
+      0.5
+    ],
+    [
+      0.0,
+      1.3255141973495483,
+      0.5
+    ],
+    [
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "vertical_fov_deg": 41.334163665771484,
+  "focus_depth": 3.7970378398895264,
+  "scope": "Visible surface reconstruction of a stylized illustration; not a complete room or rigged characters."
+}

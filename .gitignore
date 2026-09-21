@@ -18,6 +18,11 @@ work/
 node_modules/
 dist/
 coverage/
+test-results/
+.godot/
+*.import
+*.uid
+playwright-report/
 __pycache__/
 .venv/
 *.log

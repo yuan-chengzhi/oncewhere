@@ -1,0 +1,50 @@
+<!doctype html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>月背拾遗司 · 纸偶资产拼装检查</title>
+<style>
+  html,body{margin:0;background:#101f23;color:#e6d4aa;font-family:system-ui,sans-serif}
+  canvas{display:block;width:min(100vw,1400px);height:auto;margin:auto}
+  .controls{display:flex;gap:1.4rem;justify-content:center;align-items:center;padding:16px;flex-wrap:wrap}
+  label{display:flex;gap:.6em;align-items:center;font-size:14px}
+  input[type=range]{width:190px}
+  p{text-align:center;font-size:13px;opacity:.7;margin:0 1rem 1rem}
+</style>
+<canvas id="stage" width="1600" height="1000"></canvas>
+<div class="controls"><label>手臂展开 <input id="reach" type="range" min="0" max="1" step="0.01" value="0"></label><label><input id="scenery" type="checkbox" checked> 背景检查</label><label><input id="joints" type="checkbox"> 显示接点</label></div>
+<p>仅为原图 Atlas 切片、透明叠加与接点预览；没有修改 PNG，也不代表已完成 Godot 绑定。</p>
+<script type="module">
+const data=await (await fetch('./atlas.json')).json();
+const load=src=>new Promise((resolve,reject)=>{let im=new Image();im.onload=()=>resolve(im);im.onerror=reject;im.src=src});
+const [bg,fox,dog]=await Promise.all([load('./office-background.png'),load('./fox-puppet-atlas.png'),load('./dog-puppet-atlas.png')]);
+const c=document.getElementById('stage').getContext('2d');
+const reach=document.getElementById('reach'),scenery=document.getElementById('scenery'),joints=document.getElementById('joints');
+const sub=(a,b)=>[a[0]-b[0],a[1]-b[1]];
+const rot=(p,a)=>[p[0]*Math.cos(a)-p[1]*Math.sin(a),p[0]*Math.sin(a)+p[1]*Math.cos(a)];
+const add=(a,b)=>[a[0]+b[0],a[1]+b[1]];
+function part(im,p,pos,angle=0){c.save();c.translate(...pos);c.rotate(angle);c.scale(p.scale,p.scale);const [x,y,w,h]=p.rect;c.drawImage(im,x,y,w,h,x-p.pivot[0],y-p.pivot[1],w,h);c.restore()}
+function dot(p){c.fillStyle='#e9b948';c.beginPath();c.arc(...p,5,0,Math.PI*2);c.fill()}
+function puppet(def,im,x,y,s){
+ c.save();c.translate(x,y);c.scale(def.mirror_on_stage?-s:s,s);
+ const p=def.parts,body=p.torso;
+ const r=Number(reach.value);
+ const neck=sub(body.anchors.neck,body.pivot);
+ const left=sub(body.anchors.shoulder_left,body.pivot),right=sub(body.anchors.shoulder_right,body.pivot);
+ const la=.12+r*.42,ra=-.12-r*.42;
+ const elbow=(upper,shoulder,angle)=>add(shoulder,rot(sub(upper.anchors.elbow,upper.pivot).map(v=>v*upper.scale),angle));
+ const le=elbow(p.upper_left,left,la),re=elbow(p.upper_right,right,ra);
+ part(im,p.upper_left,left,la);part(im,p.upper_right,right,ra);
+ part(im,p.torso,[0,0]);
+ part(im,p.head,neck,def.mirror_on_stage?-.02:.02);
+ part(im,p.forearm_left,le,-.60-r*1.1);part(im,p.forearm_right,re,.60+r*1.1);
+ if(joints.checked){[left,right,le,re,neck].forEach(dot)}
+ c.restore();
+}
+function render(){
+ c.clearRect(0,0,1600,1000);c.fillStyle='#183138';c.fillRect(0,0,1600,1000);
+ if(scenery.checked)c.drawImage(bg,0,0,1600,1000);
+ puppet(data.fox,fox,510,659,.71);puppet(data.dog,dog,1093,659,.71);
+ c.fillStyle='rgba(12,20,22,.30)';c.fillRect(0,850,1600,150);
+}
+[reach,scenery,joints].forEach(el=>el.addEventListener('input',render));render();window.previewReady=true;
+</script>

@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="zh-CN">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>月牙胸针 · 三维形体探针</title>
+<style>
+  *{box-sizing:border-box}body{margin:0;background:#0c1b1d;color:#dce1d6;font:15px/1.7 system-ui,sans-serif}main{max-width:900px;margin:auto;padding:24px}h1{font-size:24px;font-weight:500;margin:0 0 8px}p{margin:6px 0 12px;color:#b7c4b9}#stage{width:100%;aspect-ratio:4/3;background:#142526;border:1px solid #304644;border-radius:8px;overflow:hidden}canvas{display:block;touch-action:none}.controls{display:flex;align-items:center;flex-wrap:wrap;gap:10px;margin:14px 0}button,a{font:inherit}button{padding:8px 16px;border:1px solid #667970;background:#263d3a;color:#e5e3c8;border-radius:4px;cursor:pointer}button:hover{background:#36534c}button:focus-visible,input:focus-visible,a:focus-visible{outline:2px solid #ecd490;outline-offset:3px}label{display:flex;gap:12px;align-items:center;flex:1;min-width:230px}input{flex:1;min-width:90px}small{color:#a6b5aa}a{color:#dac790}#status{font-size:13px}.foot{margin-top:18px;font-size:13px}@media(max-width:550px){main{padding:16px}h1{font-size:21px}button{padding:7px 12px}}
+</style>
+<main>
+  <h1>月牙胸针 · 三维形体探针</h1>
+  <p>拖动旋转，观察同一物体的正面、厚度与背部部件。此处仅验证形体与 GLB 流程，仍需艺术精修。</p>
+  <div id="stage"></div>
+  <div class="controls">
+    <button data-angle="0">正面</button><button data-angle="90">侧面</button><button data-angle="180">背面</button>
+    <label>旋转角度<input id="angle" type="range" min="0" max="360" value="0" aria-label="胸针水平旋转角度"></label>
+    <button id="export">重新导出 GLB</button>
+  </div>
+  <p id="status" role="status">正在从源码重建形体并导出、读回 GLB…</p>
+  <small>没有雕纹、孔位、合针动画、碰撞与声音；针和扣座仍是几何占位。模型并非 AI 生成。</small>
+  <p class="foot"><a href="brooch-probe.glb" download>已保存的 GLB</a> · <a href="front.png">首次探针正面</a> · <a href="edge.png">侧面</a> · <a href="back.png">背面</a> · <a href="Three-LICENSE.txt">Three.js MIT 许可</a></p>
+</main>
+<script src="viewer.js" defer></script>
+</html>
