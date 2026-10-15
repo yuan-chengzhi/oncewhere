@@ -1,0 +1,47 @@
+name: Build oncewhere showcase
+on:
+  push:
+    branches: ["codex/oncewhere-showcase"]
+  pull_request:
+    paths: ["showcase/**", "works/moon-office/**", ".github/workflows/showcase.yml", "README.md"]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    defaults:
+      run:
+        working-directory: works/moon-office
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v7
+        with:
+          node-version: "24"
+          package-manager-cache: false
+      - run: npm ci
+      - run: npx playwright install --with-deps chromium
+      - name: Build the existing work without changing dependencies
+        run: npm run build
+      - name: Test static build and standalone edition with existing behavior suite
+        run: npx playwright test --config playwright.showcase.config.ts --reporter=line
+      - name: Package existing work and capture real screenshots
+        run: node scripts/package-showcase.mjs "$RUNNER_TEMP/oncewhere-showcase"
+      - name: Store review package (not public deployment)
+        uses: actions/upload-artifact@v7
+        with:
+          name: oncewhere-showcase
+          path: ${{ runner.temp }}/oncewhere-showcase/
+          if-no-files-found: error
+          retention-days: 30
+      - name: Store browser checks separately
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: oncewhere-browser-checks
+          path: works/moon-office/test-results/
+          if-no-files-found: ignore
+          retention-days: 7
