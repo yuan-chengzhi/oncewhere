@@ -23,6 +23,8 @@ jobs:
           node-version: "24"
           package-manager-cache: false
       - run: npm ci
+      - name: Inspect dependency advisory scope (not a public runtime service)
+        run: npm audit --json || true
       - run: npx playwright install --with-deps chromium
       - name: Build the existing work without changing dependencies
         run: npm run build

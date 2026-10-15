@@ -63,7 +63,7 @@ try {
   page.on('pageerror', e => errors.push(e.message));
   await page.route(/^https?:\/\//, route => { network.push(route.request().url()); return route.abort(); });
   await page.goto(pathToFileURL(join(output, 'index.html')).href);
-  await page.locator('img').evaluateAll(images => Promise.all(images.map(image => image.decode())));
+  await page.locator('img').evaluateAll(images => Promise.all(images.map(image => { image.loading = 'eager'; return image.decode(); })));
   await page.locator('a.primary').click();
   await page.locator('[data-action="start"]').filter({ visible: true }).waitFor();
   await context.close();
