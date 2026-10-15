@@ -14,9 +14,11 @@
 
 ### 如何体验
 
-无需先安装开发环境。作者或有仓库权限的读者可在 [Build oncewhere showcase](https://github.com/yuan-chengzhi/oncewhere/actions/workflows/showcase.yml) 的成功运行中取得 **`oncewhere-showcase`** 展示包，解压后用桌面浏览器打开 `index.html`，或直接打开 `moon-office.html`。包内有本次构建的真实截图、作品介绍、完整互动收藏版和普通静态网站版。
+**本仓库已公开，源码、文档和截图可直接浏览，无需另行申请权限。** 要体验完整作品，无需安装开发环境：请先登录 GitHub，再进入 [Build oncewhere showcase](https://github.com/yuan-chengzhi/oncewhere/actions/workflows/showcase.yml) 的成功运行页面，在 **Artifacts** 中下载 **`oncewhere-showcase`** 展示包。
 
-**这里尚未承诺公开在线预览。私有仓库及其构建包不会因出现在申请材料里而自动对评审开放；向外部读者提供经作者确认的展示包或已发布页面，而不是无权限的链接。**
+解压后用桌面浏览器打开 `index.html`，先看作品介绍与真实截图，再点击“进入第一夜”；也可以直接打开 `moon-office.html`。文件取得后，本地体验无需账号或服务器，支持离线打开。
+
+**仓库页面不是在线试玩地址；当前提供下载后本地体验。** 展示包按工作流设置保留 30 天；找不到包时，请查看较新的成功运行，或按[构建方法](works/moon-office/README.md)自行构建。
 
 [作品内容与构建方法](works/moon-office/README.md) · [展示包打开说明](showcase/README.md) · [素材与制作说明](showcase/CREDITS.md)
 
@@ -36,4 +38,4 @@
 
 插画使用 AI 图像生成辅助制作；声音包含项目编排的钢琴音序和程序音效。钢琴音色使用 Alexander Holm 的 Salamander Grand Piano v3，保留 CC BY 3.0 署名与许可；作品字体沿用 Noto Serif SC 及其原许可。详细记录见 [CREDITS](showcase/CREDITS.md)。
 
-展示包不携带 Git 历史、私人访谈、未整理故事、原始研究笔记或原生桌面程序。本次整理没有替整个仓库指定开源许可证，也没有自动改变仓库可见性。自动化浏览器检查不等于真实手机、观众体验或听感验收。
+展示包不携带 Git 历史、私人访谈、未整理故事、原始研究笔记或原生桌面程序。本次整理没有替整个仓库指定开源许可证；素材署名与许可说明仍需保留。自动化浏览器检查不等于真实手机、观众体验或听感验收。
